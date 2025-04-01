@@ -30,5 +30,15 @@ Desenvolvedora apaixonada por tecnologia, sempre buscando aprender e evoluir! �
 - 💼 [LinkedIn](https://www.linkedin.com/in/brunna-aparecida)
 - ✉️ Me envie um e-mail: **Fbrunna70@gmail.com**
 
+---
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunna-aparecida&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunna-aparecida&layout=compact&theme=radical" />
+</p>
+
+
+
+
   Vamos construir algo incrível juntos? 🚀
 
