@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=brunna-aparecida&style=plastic)
+
 ### Olá, eu sou Brunna👋
 
 Desenvolvedora apaixonada por tecnologia, sempre buscando aprender e evoluir! 💻
